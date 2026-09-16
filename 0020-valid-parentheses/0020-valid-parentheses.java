@@ -1,6 +1,5 @@
 class Solution {
     public boolean isValid(String s) {
-        // Use Deque as a stack for better performance than Stack class
         java.util.Deque<Character> stack = new java.util.ArrayDeque<>();
         
         for (char c : s.toCharArray()) {
