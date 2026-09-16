@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0015-3sum) |
 | [0142-linked-list-cycle-ii](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0142-linked-list-cycle-ii) |
+| [0844-backspace-string-compare](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -72,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
