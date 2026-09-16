@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0015-3sum) |
+| [0682-baseball-game](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,9 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SomSatwik/LeetcodeProblemsSolved-Som/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
